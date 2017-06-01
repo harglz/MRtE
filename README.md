@@ -16,4 +16,3 @@ v1.1.1
 
 * Fixes navigation issues.
 * Dropdown in side-nav needs new values for new pages.
-
